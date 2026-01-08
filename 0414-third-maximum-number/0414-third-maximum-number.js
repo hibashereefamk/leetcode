@@ -16,7 +16,8 @@ var thirdMax = function(nums) {
         } else if (num > second) {
             third = second;
             second = num;
-        } else if (num > third) {
+        }
+        else if (num > third) {
             third = num;
         }
     }
