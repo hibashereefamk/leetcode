@@ -1,7 +1,6 @@
 <h2><a href="https://leetcode.com/problems/calculator-with-method-chaining">2726. Calculator with Method Chaining</a></h2><h3>Easy</h3><hr><p>Design a <code>Calculator</code> class. The class should provide the&nbsp;mathematical operations of&nbsp;addition, subtraction, multiplication, division, and exponentiation. It should also allow consecutive operations to be performed using method chaining.&nbsp;The <code>Calculator</code> class constructor should accept a number&nbsp;which serves as the&nbsp;initial value of <code>result</code>.</p>
 
 <p>Your <font face="monospace"><code>Calculator</code>&nbsp;</font>class should have the following methods:</p>
-
 <ul>
 	<li><code>add</code> - This method adds the given number <code>value</code> to the&nbsp;<code>result</code> and returns the updated <code>Calculator</code>.</li>
 	<li><code>subtract</code> -&nbsp;This method subtracts the given number <code>value</code>&nbsp;from the&nbsp;<code>result</code> and returns the updated <code>Calculator</code>.</li>
